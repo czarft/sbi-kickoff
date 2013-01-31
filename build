@@ -1,0 +1,3 @@
+gcc -lm -o sine sine.c
+gcc -o helloworld hello.c
+
